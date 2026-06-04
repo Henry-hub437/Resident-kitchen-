@@ -1,0 +1,6 @@
+{
+  "name": "Resident Kitchen & Bar",
+  "description": "Premium luxury restaurant and bar website in Owerri, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
